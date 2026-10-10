@@ -18,8 +18,6 @@ import {
   X,
   Layers,
   Inbox,
-  Database,
-  Server,
   Activity,
   Check
 } from 'lucide-react';
