@@ -1,4 +1,4 @@
-# 🛡️ IncidentFlow — Technical Incident & Ops Management Platform
+# IncidentFlow — Technical Incident & Ops Management Platform
 
 IncidentFlow, mikroservis ve dağıtık sistem mimarilerinde ortaya çıkan operasyonel arızaları, servis kesintilerini ve kritik sistem hatalarını (deadlock, timeout, crash) merkezi olarak izlemek, önceliklendirmek ve mühendislik ekiplerine atamak için tasarlanmış modern bir **Full-Stack Olay Yönetim (Incident Management)** platformudur.
 
@@ -11,7 +11,7 @@ IncidentFlow, mikroservis ve dağıtık sistem mimarilerinde ortaya çıkan oper
 
 ---
 
-## 🚀 Temel Özellikler
+## Temel Özellikler
 
 - **Operasyonel KPI Metrikleri:** Toplam olay, açık bekleyen, işlemde olan ve çözülen olayları anlık olarak hesaplayan durum göstergeleri.
 - **Canlı Veri Görselleştirme:** Recharts entegrasyonu ile SLA öncelik seviyeleri (Bar Chart) ve çözüm durum oranları (Donut Chart) dinamik grafik analitiği.
@@ -23,7 +23,7 @@ IncidentFlow, mikroservis ve dağıtık sistem mimarilerinde ortaya çıkan oper
 
 ---
 
-## 🏗️ Sistem Mimarisi
+## Sistem Mimarisi
 
 IncidentFlow/
 ├── backend/                  # Python & Django REST Framework
@@ -48,7 +48,7 @@ IncidentFlow/
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## Teknoloji Yığını
 
 | Katman | Teknoloji | Açıklama |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ IncidentFlow/
 
 ---
 
-## 🔌 API Uç Noktaları (Endpoints)
+## API Uç Noktaları (Endpoints)
 
 | Metot | Uç Nokta | Açıklama |
 | :--- | :--- | :--- |
@@ -72,7 +72,7 @@ IncidentFlow/
 | `GET` | `/api/users/` | Sistemde kayıtlı mühendisleri listeler |
 
 ---
-## ⚙️ Kurulum & Çalıştırma
+## Kurulum & Çalıştırma
 
 ### 1. PostgreSQL (Docker)
 ```bash
