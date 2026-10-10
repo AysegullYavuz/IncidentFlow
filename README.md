@@ -23,6 +23,12 @@ IncidentFlow, mikroservis ve dağıtık sistem mimarilerinde ortaya çıkan oper
 
 ---
 
+## Frontend Tasarımı
+
+<img width="1902" height="913" alt="dashboard" src="https://github.com/user-attachments/assets/f0a57251-d2b1-418b-99cb-2a55d119c57f" />
+<img width="1920" height="918" alt="olay_kayitlari" src="https://github.com/user-attachments/assets/8ff48d6f-5825-469d-86c0-9859c664f3e3" />
+<img width="1920" height="917" alt="ayarlar" src="https://github.com/user-attachments/assets/e41801f1-023c-4349-acc8-309a7385fd95" />
+
 ## Sistem Mimarisi
 
 ```text
