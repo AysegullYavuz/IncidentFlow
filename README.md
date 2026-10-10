@@ -25,6 +25,7 @@ IncidentFlow, mikroservis ve dağıtık sistem mimarilerinde ortaya çıkan oper
 
 ## Sistem Mimarisi
 
+```text
 IncidentFlow/
 ├── backend/                  # Python & Django REST Framework
 │   ├── core/                 # Django Proje Çekirdeği (settings, urls)
@@ -44,9 +45,8 @@ IncidentFlow/
 │   │   └── index.css         # Modern SaaS Tasarım Stilleri
 │   └── package.json
 │
-└── docker-compose.yml / Docker PostgreSQL Konteyneri
-
----
+└── docker-compose.yml        # Docker PostgreSQL Konteyneri
+```
 
 ## Teknoloji Yığını
 
