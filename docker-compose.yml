@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: incidentflow_db
+    restart: always
+    environment:
+      POSTGRES_DB: incidentflow_db
+      POSTGRES_USER: incidentflow_user
+      POSTGRES_PASSWORD: secretpassword123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
